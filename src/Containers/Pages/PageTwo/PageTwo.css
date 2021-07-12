@@ -1,0 +1,32 @@
+.drawing {
+    margin-top: 200px;
+    position: relative;
+}
+
+.backDrawing {
+    position: absolute;
+    margin-left: 200px;
+    width: 484px;
+    height: 268px;
+}
+
+.frontDrawing {
+    margin-top: 50px;
+    position: absolute;
+    width: 630px;
+    height: 325px;
+}
+
+.day {
+    margin-top: 300px;
+    color: #1B75BB;
+    opacity: 80%;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.dreamDay {
+    font-size: 32px;
+    font-weight: 500;
+    font-family: Gelasio sans-serif;
+}

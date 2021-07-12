@@ -1,0 +1,67 @@
+.bagroundImg{
+    background-attachment: fixed;
+    background: url("../../../img/zOY7ROKMih\ 1.png");
+    width: 100%;
+    height: 690px;
+}
+
+.royalPark { 
+    font-weight: 500;
+    color: #081F32;
+    font-family: Gelasio sans-serif;
+}
+
+.active {
+    color: #1B75BB;
+    text-decoration: none;
+    font-family: Gelasio sans-serif;
+}
+
+.actives{
+    font-family: Gelasio sans-serif;
+    color: #081F32;
+    font-weight: 500;   
+    text-decoration: none;
+    margin-left: 50px;
+}
+
+.boss {
+    font-family: Gelasio sans-serif;
+}
+
+.sereNity {
+    color: #1B75BB;
+    opacity: 80%;
+}
+
+.textStay {
+    font-family: Gelasio sans-serif;
+    font-weight: 600;
+    font-size: 57px;
+}
+
+.checkPoint {
+    margin-left: 180px;
+    margin-top: 170px;
+    width: 600px;
+    height: 110px;
+    background: rgba(255, 255, 255, 0.21);
+    border-radius: 10px;
+    backdrop-filter: blur(70px);
+}
+
+.vertical-line{
+    height: 40px;
+    float: left; 
+    border: 1px inset;
+  }
+
+  .details {
+      margin-top: 100px;
+      margin-left: 100px;
+  }
+
+  .logoOne {
+      position: absolute;
+      margin-left: 10px;
+  }

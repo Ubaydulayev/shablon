@@ -1,0 +1,35 @@
+.pageFive {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.name, .email {
+    font-family: Gelasio sans-serif;
+}
+
+.pageFiveText {
+    font-family: Gelasio sans-serif;
+    font-size: 32px;
+    font-weight: 500;
+}
+
+.fiveButton {
+    width: 120px;
+    height: 50px;
+}
+
+.pageFiveCards {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    width: 360px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 30px rgba(199, 199, 199, 0.25);
+}
+
+.rasm {
+    margin-left: 50px;
+}
+
+.belgi {
+    margin-top: 100px;
+    margin-left: 50px;
+}

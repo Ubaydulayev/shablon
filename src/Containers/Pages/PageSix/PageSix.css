@@ -1,0 +1,25 @@
+.pageSix {
+    margin-bottom: 150px;
+}
+
+.pageSixSmallText{
+    opacity: 80%;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.pageSixText{
+    font-family: Gelasio sans-serif;
+    font-weight: 500;
+    font-size: 32px;
+}
+
+.inputPageSix {
+    width: 400px;
+    height: 50px;
+}
+
+.pageSixButton {
+    height: 54px;
+    width: 164px;
+}

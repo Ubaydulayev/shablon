@@ -1,0 +1,41 @@
+.headText {
+    margin-top: 60px;
+    font-size: 35px;
+    font-family: Gelasio sans-serif;
+    font-weight: 500;
+}
+
+.textGallery {
+    margin-left: 90px;
+}
+
+.mebel {
+    width: 555px;
+    height: 337px;
+    border-radius: 10px;
+}
+
+.theDetails {
+    position: absolute;
+    margin-top: 211px;
+    width: 231px;
+    height: 126px;
+    border-radius: 10px;
+    background: rgba(226, 226, 226, 0.4);
+    backdrop-filter: blur(10px);
+}
+
+.textDetails {
+    font-weight: 900;
+    font-size: 25px;
+    font-family: Gelasio sans-serif;
+}
+
+.smallDetails {
+    font-weight: 500;
+    font-size: 17px;
+}
+
+.buy {
+    font-family: Gelasio sans-serif;
+}
